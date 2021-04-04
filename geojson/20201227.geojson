@@ -1,0 +1,3 @@
+{"type": "FeatureCollection","features": [
+{"type": "Feature","properties":{"time":"2020-12-27T19:14:20.950Z","provider":"gps","time_long":1609096460950,"accuracy":22.33495,"altitude":122.40478515625,"bearing":234.0,"speed":0.35},"geometry":{"type":"Point","coordinates":[8.07756452,52.521156]}}
+]}
