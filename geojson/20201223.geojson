@@ -1,9 +1,0 @@
-{"type": "FeatureCollection","features": [
-{"type": "Feature","properties":{"time":"2020-12-23T07:53:41.000Z","provider":"gps","time_long":1608710021000,"accuracy":37.42535,"altitude":108.9273681640625,"speed":0.0},"geometry":{"type":"Point","coordinates":[8.07789024,52.52082767]}}
-,{"type": "Feature","properties":{"time":"2020-12-23T09:30:16.790Z","provider":"network","time_long":1608715816790,"accuracy":20.0,"altitude":105.0},"geometry":{"type":"Point","coordinates":[8.0774084,52.5212359]}}
-,{"type": "Feature","properties":{"time":"2020-12-23T11:08:57.000Z","provider":"gps","time_long":1608721737000,"accuracy":38.501583,"altitude":-12.958526611328125,"speed":0.0},"geometry":{"type":"Point","coordinates":[8.07852191,52.52184701]}}
-,{"type": "Feature","properties":{"time":"2020-12-23T12:08:50.595Z","provider":"network","time_long":1608725330595,"accuracy":23.927,"altitude":107.29999542236328},"geometry":{"type":"Point","coordinates":[8.0774563,52.5212177]}}
-,{"type": "Feature","properties":{"time":"2020-12-23T12:33:22.000Z","provider":"gps","time_long":1608726802000,"accuracy":16.491362,"altitude":77.040771484375,"bearing":198.0,"speed":3.95},"geometry":{"type":"Point","coordinates":[8.08291448,52.51262528]}}
-,{"type": "Feature","properties":{"time":"2020-12-23T13:33:21.467Z","provider":"network","time_long":1608730401467,"accuracy":25.026,"altitude":107.0999984741211},"geometry":{"type":"Point","coordinates":[8.0775584,52.5211976]}}
-,{"type": "Feature","properties":{"time":"2020-12-23T21:10:46.195Z","provider":"network","time_long":1608757846195,"accuracy":22.639,"altitude":107.0999984741211},"geometry":{"type":"Point","coordinates":[8.0774333,52.5212097]}}
-]}
